@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faisal Khan</h1>
 <h3 align="center">AIML Student | Building Smart & Responsible AI</h3>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m an envious Software Developer always looking for learning new technologies.
 
 - 📫 How to reach me **710faisalahmedkhan@gmail.com**
 
